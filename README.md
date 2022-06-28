@@ -45,9 +45,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank you Nicole for your contrubution in this project
+- Thanks you Microverse team for you to make it done
+
 
 ## 📝 License
 
